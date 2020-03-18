@@ -1,0 +1,8 @@
+package สýื้;
+
+public class Item {
+	
+	    String name;
+	    int price;
+	
+}
