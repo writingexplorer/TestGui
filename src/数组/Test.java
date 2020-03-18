@@ -3,7 +3,7 @@ package 数组;
 public class Test {
 	   public static void main(String[] args) {
 	        int[] a;
-	        a = new int[5];
+	        a = new int[6];
 	         
 	        System.out.println(a.length); //打印数组的长度
 	         
